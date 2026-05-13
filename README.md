@@ -1,6 +1,6 @@
 Bangla Scientific Calculator
 
-A fully functional scientific calculator** written in C/C++ with a Bangla user interface.  
+A fully functional scientific calculator written in C/C++ with a Bangla user interface.  
 Supports basic arithmetic, advanced scientific functions, memory operations, and proper error handling.
 
 ---
